@@ -1,4 +1,4 @@
-# forecasting-us-house-prices-using-time-series-models
+# Forecasting US House Prices Using Time Series Models
 
 - Built loss function to evaluate various potential situations.  
 -  Removed exponential trend in the data and analyzed autocorrelation and partial autocorrelation.  
